@@ -21,6 +21,7 @@ Business Questions
 * login failure escalation
 
 OUTPUT/Dashboard
+
 The final securityPulse_users_report powers the POWER BI Dashboard.
 
 SECURITYPULSE -- KEY FINDINGS & ACTIONS
