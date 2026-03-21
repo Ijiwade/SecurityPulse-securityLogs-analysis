@@ -20,8 +20,7 @@ Business Questions
 * impossible travel detection
 * login failure escalation
 
-OUTPUT/Dashboard
-
+Output/Dashboard
 The final securityPulse_users_report powers the POWER BI Dashboard.
 
 SECURITYPULSE -- KEY FINDINGS & ACTIONS
